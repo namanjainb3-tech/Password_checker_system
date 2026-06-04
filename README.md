@@ -50,4 +50,4 @@ Built using Python Tkinter, the application provides:
 
 Password Checker System
 
-├── password
+├── main.py
