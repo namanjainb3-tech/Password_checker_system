@@ -178,15 +178,15 @@ Strength: Strong
 
 ### Home Screen
 
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.jpeg)
 
 ### Weak Password Detection
 
-![Weak Password](screenshots/weak-password.png)
+![Weak Password](screenshots/weak-password.jpeg)
 
 ### Strong Password Detection
 
-![Strong Password](screenshots/strong-password.png)
+![Strong Password](screenshots/strong-password.jpeg)
 
 ---
 
